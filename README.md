@@ -10,6 +10,6 @@ But if for some unknown reasons you may need to test out old Rope versions on Li
 Installation instructions and troubleshooting in wiki are probably still up-to-date, so you can use them to install Rope to your Linux-based machine.
 
 Sincerely,
-Aqua
+deb
 
-You can find me once in a lifetime on official Hillobar's Discord server, and if you have questions - you should probably ask them - @theaquawave
+UPD: I am no longer present on Hillobar's discord server since I switched from face swapping to experiments with video diffusion models.
